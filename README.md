@@ -2,6 +2,8 @@
 
 This is a home project solution for Cisco Software Engineering School (Summer 2018).
 
+As part of Cisco Corporate Social Responsibility we run multiple volunteering events targetted at different areas. Cisco Software Engineering School is a course intended for the year 7-9 students and its purpose is to give the understanding of the software engineering.
+
 ## Requirements
 
 This application has been tested on Python 3.6.2 with pip 10.0.1.
